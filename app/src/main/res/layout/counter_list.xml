@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/counter_list">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/counter_name"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        tools:text="@string/counter_name" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#9E9999"
+        android:layout_below="@id/counter_name"
+        android:layout_marginTop="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#9E9999"
+        android:layout_above="@id/counter_name"
+        android:layout_marginTop="10dp"/>
+</RelativeLayout>

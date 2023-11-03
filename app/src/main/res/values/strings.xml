@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Technical Assignement 1</string>
+    <string name="edit_settings">Edit Settings</string>
+    <string name="toggle_name">Toggle Event names</string>
+    <string name="counter_1_name">Counter 1 Name</string>
+    <string name="counter_2_name">Counter 2 Name</string>
+    <string name="counter_3_name">Counter 3 Name</string>
+    <string name="save">SAVE</string>
+    <string name="name_goes_here">Name goes here</string>
+    <string name="maximum_counts">Maximum Counts</string>
+    <string name="max_count_goes_here">Max count goes here</string>
+    <string name="event_name_display">Event Name</string>
+    <string name="event_name">event_name</string>
+    <string name="settings">SETTINGS</string>
+    <string name="show_my_counts">SHOW MY COUNTS</string>
+    <string name="counter_name">counterName</string>
+</resources>
